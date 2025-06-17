@@ -1,0 +1,1 @@
+rootProject.name = "simple-mockito-unit-test-app"
